@@ -1,0 +1,7 @@
+opencv-python>=4.8.0
+numpy==1.26.4
+customtkinter>=5.2.2
+plyer>=2.1.0
+torch
+torchvision
+facenet-pytorch
